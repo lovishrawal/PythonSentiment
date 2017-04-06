@@ -1,0 +1,6 @@
+ipython[notebook]
+twitter
+wordcloud
+matplotlib
+Pilow
+watson-developer-cloud
