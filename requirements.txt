@@ -1,6 +1,3 @@
 ipython[notebook]
 twitter
-matplotlib
-wordcloud
-Pillow
 watson-developer-cloud
